@@ -1,5 +1,4 @@
-import { Button } from "react-native";
-import { View, Text } from "react-native";
+import { Button, View, Text } from "react-native";
 
 export default function Actividad({ actividad, borrarActividad, completarActividad }) {
     return (
